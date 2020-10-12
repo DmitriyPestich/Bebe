@@ -1,0 +1,1033 @@
+# Copyright (C) 2017 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Bebe1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2019-06-27 18:41+0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: Pestych Dmytro\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;_x;_n:1,2;esc_attr;"
+"esc_attr_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:22
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:31
+msgid "Most Used Categories"
+msgstr ""
+
+#: 404.php:47
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: comments.php:31
+msgid "Comments"
+msgstr ""
+
+#: comments.php:47
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:57
+msgid "Respond"
+msgstr ""
+
+#: footer.php:26
+msgid "Information"
+msgstr ""
+
+#: footer.php:60
+msgid "TOP"
+msgstr ""
+
+#: functions.php:47
+msgid "Primary"
+msgstr ""
+
+#: functions.php:48
+msgid "Footer"
+msgstr ""
+
+#: functions.php:126
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:128
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:135
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:137
+msgid "Add widgets to blog sidebar."
+msgstr ""
+
+#: functions.php:253
+msgid "homepage_metabox"
+msgstr ""
+
+#: functions.php:254
+msgid "Homepage Options"
+msgstr ""
+
+#: functions.php:263
+msgid "About Photo"
+msgstr ""
+
+#: functions.php:264
+msgid "Upload a photo. Recommended size: 280px - 194px"
+msgstr ""
+
+#: functions.php:270
+msgid "About title"
+msgstr ""
+
+#: functions.php:271
+msgid "The title"
+msgstr ""
+
+#: functions.php:277
+msgid "Description About Box"
+msgstr ""
+
+#: functions.php:278
+msgid "Type the description"
+msgstr ""
+
+#: functions.php:284
+msgid "About Link"
+msgstr ""
+
+#: functions.php:285
+msgid "The Link"
+msgstr ""
+
+#: functions.php:291
+msgid "Info Title 1"
+msgstr ""
+
+#: functions.php:292
+msgid "Type here the Info Title 1"
+msgstr ""
+
+#: functions.php:298
+msgid "Info Description 1"
+msgstr ""
+
+#: functions.php:299
+msgid "Type here the Info Description 1"
+msgstr ""
+
+#: functions.php:305
+msgid "Info Title 2"
+msgstr ""
+
+#: functions.php:306
+msgid "Type here the Info Title 2"
+msgstr ""
+
+#: functions.php:312
+msgid "Info Description 2"
+msgstr ""
+
+#: functions.php:313
+msgid "Type here the Info Description 2"
+msgstr ""
+
+#: functions.php:319
+msgid "Info Title 3"
+msgstr ""
+
+#: functions.php:320
+msgid "Type here the Info Title 3"
+msgstr ""
+
+#: functions.php:326
+msgid "Info Description 3"
+msgstr ""
+
+#: functions.php:327
+msgid "Type here the Info Description 3"
+msgstr ""
+
+#: functions.php:337
+msgid "about_metabox"
+msgstr ""
+
+#: functions.php:338
+msgid "About data"
+msgstr ""
+
+#: functions.php:347
+msgid "Teacher Block title"
+msgstr ""
+
+#: functions.php:348
+msgid "Specify the Theacher Block Title"
+msgstr ""
+
+#: functions.php:357
+msgid "teachers_metabox"
+msgstr ""
+
+#: functions.php:358
+msgid "Teachers Social Links"
+msgstr ""
+
+#: functions.php:367
+msgid "Facebook Link"
+msgstr ""
+
+#: functions.php:368 functions.php:375 functions.php:382
+msgid "Add the link"
+msgstr ""
+
+#: functions.php:374
+msgid "Twitter Link"
+msgstr ""
+
+#: functions.php:381
+msgid "Pinterest Link"
+msgstr ""
+
+#: functions.php:391
+msgid "contact_metabox"
+msgstr ""
+
+#: functions.php:392
+msgid "Contact Info"
+msgstr ""
+
+#: functions.php:400
+msgid "Address Label"
+msgstr ""
+
+#: functions.php:401 functions.php:408 functions.php:415 functions.php:422
+#: functions.php:429 functions.php:436
+msgid "Add the info"
+msgstr ""
+
+#: functions.php:407
+msgid "Address"
+msgstr ""
+
+#: functions.php:414
+msgid "Phone Label"
+msgstr ""
+
+#: functions.php:421
+msgid "Phone"
+msgstr ""
+
+#: functions.php:428
+msgid "Email Label"
+msgstr ""
+
+#: functions.php:435
+msgid "Email"
+msgstr ""
+
+#: functions.php:442
+msgid "Google Maps Api Key"
+msgstr ""
+
+#: functions.php:443
+msgid "Get your API key in Google Console."
+msgstr ""
+
+#: functions.php:449
+msgid "Contact Form Shortcode"
+msgstr ""
+
+#: functions.php:450
+msgid ""
+"You can use any contact for Plugin. Generate the Form and paste the shortcode "
+"here."
+msgstr ""
+
+#: functions.php:529
+msgid "Edit this comment"
+msgstr ""
+
+#: functions.php:546
+msgid "Galleries"
+msgstr ""
+
+#: functions.php:547
+msgid "Gallery"
+msgstr ""
+
+#: functions.php:558
+msgid "Teachers"
+msgstr ""
+
+#: functions.php:559
+msgid "Teacher"
+msgstr ""
+
+#: functions.php:570
+msgid "Rooms"
+msgstr ""
+
+#: functions.php:571
+msgid "Room"
+msgstr ""
+
+#: header.php:120
+msgid "More >"
+msgstr ""
+
+#: inc/breadcrumbs.php:4
+msgid "Home"
+msgstr ""
+
+#: inc/breadcrumbs.php:5
+msgid "Archive"
+msgstr ""
+
+#: inc/breadcrumbs.php:6
+msgid "Search results"
+msgstr ""
+
+#: inc/breadcrumbs.php:7
+msgid "Tag"
+msgstr ""
+
+#: inc/breadcrumbs.php:8
+msgid "Author"
+msgstr ""
+
+#: inc/breadcrumbs.php:9
+msgid "Error 404"
+msgstr ""
+
+#: inc/breadcrumbs.php:138
+msgid "Page"
+msgstr ""
+
+#: inc/gallery-meta.php:8
+msgid "Gallery Images"
+msgstr ""
+
+#: inc/gallery-meta.php:24
+msgid "Add image(s) to gallery"
+msgstr ""
+
+#: inc/gallery-meta.php:24
+msgid "Add image(s)"
+msgstr ""
+
+#: inc/gallery-meta.php:33
+msgid "Change image"
+msgstr ""
+
+#: inc/metaboxes.php:197
+msgid "_picker"
+msgstr ""
+
+#: inc/metaboxes.php:197
+msgid "background-color:"
+msgstr ""
+
+#: inc/redux-options.php:75 inc/redux-options.php:76
+msgid "Sample Options"
+msgstr ""
+
+#: inc/redux-options.php:221
+#, php-format
+msgid ""
+"<p>Did you know that Redux sets a global variable for you? To access any of "
+"your saved options from within your code you can use your global variable: "
+"<strong>$%1$s</strong></p>"
+msgstr ""
+
+#: inc/redux-options.php:223
+msgid ""
+"<p>This text is displayed above the options panel. It isn't required, but "
+"more info is always better! The intro_text field accepts all HTML.</p>"
+msgstr ""
+
+#: inc/redux-options.php:227
+msgid ""
+"<p>This text is displayed below the options panel. It isn't required, but "
+"more info is always better! The footer_text field accepts all HTML.</p>"
+msgstr ""
+
+#: inc/redux-options.php:243
+msgid "Theme Information 1"
+msgstr ""
+
+#: inc/redux-options.php:244 inc/redux-options.php:249
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: inc/redux-options.php:248
+msgid "Theme Information 2"
+msgstr ""
+
+#: inc/redux-options.php:255
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: inc/redux-options.php:279
+msgid "Header&Footer"
+msgstr ""
+
+#: inc/redux-options.php:281
+msgid "Data to be displayed in Header"
+msgstr ""
+
+#: inc/redux-options.php:287
+msgid "Logo Data"
+msgstr ""
+
+#: inc/redux-options.php:288
+msgid "Upload the logo and specify the slogan"
+msgstr ""
+
+#: inc/redux-options.php:297
+msgid "Logo"
+msgstr ""
+
+#: inc/redux-options.php:298 inc/redux-options.php:307 inc/redux-options.php:316
+msgid "Upload here your logo"
+msgstr ""
+
+#: inc/redux-options.php:299
+msgid "Recommended size: 320px-110px"
+msgstr ""
+
+#: inc/redux-options.php:306
+msgid "Logo Small"
+msgstr ""
+
+#: inc/redux-options.php:308
+msgid "Recommended size: 200px-70px"
+msgstr ""
+
+#: inc/redux-options.php:315
+msgid "Logo footer"
+msgstr ""
+
+#: inc/redux-options.php:317
+msgid "Recommended size: 80px-40px"
+msgstr ""
+
+#: inc/redux-options.php:323
+msgid "Slogan"
+msgstr ""
+
+#: inc/redux-options.php:324
+msgid "Type here tour Slogan"
+msgstr ""
+
+#: inc/redux-options.php:325
+msgid "Your Slogan"
+msgstr ""
+
+#: inc/redux-options.php:332
+msgid "Social links"
+msgstr ""
+
+#: inc/redux-options.php:333
+msgid "Type here social links"
+msgstr ""
+
+#: inc/redux-options.php:341
+msgid "Facebook link"
+msgstr ""
+
+#: inc/redux-options.php:342 inc/redux-options.php:350 inc/redux-options.php:358
+#: inc/redux-options.php:366 inc/redux-options.php:374
+msgid "Type here your link"
+msgstr ""
+
+#: inc/redux-options.php:343 inc/redux-options.php:351 inc/redux-options.php:359
+#: inc/redux-options.php:367 inc/redux-options.php:375
+msgid "Your Profile Link"
+msgstr ""
+
+#: inc/redux-options.php:349
+msgid "Instagram link"
+msgstr ""
+
+#: inc/redux-options.php:357
+msgid "Pinterest link"
+msgstr ""
+
+#: inc/redux-options.php:365
+msgid "Twitter link"
+msgstr ""
+
+#: inc/redux-options.php:373
+msgid "YouTube link"
+msgstr ""
+
+#: inc/redux-options.php:382
+msgid "Home Slider"
+msgstr ""
+
+#: inc/redux-options.php:383
+msgid "Upload data for your slider"
+msgstr ""
+
+#: inc/redux-options.php:391
+msgid "Slides Options"
+msgstr ""
+
+#: inc/redux-options.php:392
+msgid "Unlimited slides with drag and drop sortings."
+msgstr ""
+
+#: inc/redux-options.php:393
+msgid ""
+"This field will store all slides values into a multidimensional array to use "
+"into a foreach loop."
+msgstr ""
+
+#: inc/redux-options.php:395
+msgid "This is a title"
+msgstr ""
+
+#: inc/redux-options.php:396
+msgid "Description Here"
+msgstr ""
+
+#: inc/redux-options.php:397
+msgid "Give us a link!"
+msgstr ""
+
+#: inc/redux-options.php:403
+msgid "Footer Data"
+msgstr ""
+
+#: inc/redux-options.php:404
+msgid "Type here info for footer"
+msgstr ""
+
+#: inc/redux-options.php:412
+msgid "Site Phone"
+msgstr ""
+
+#: inc/redux-options.php:413
+msgid "Type here your phone"
+msgstr ""
+
+#: inc/redux-options.php:414
+msgid "The phone number"
+msgstr ""
+
+#: inc/redux-options.php:420
+msgid "Site Email"
+msgstr ""
+
+#: inc/redux-options.php:421
+msgid "Type here your email"
+msgstr ""
+
+#: inc/redux-options.php:422
+msgid "The Email Address"
+msgstr ""
+
+#: inc/redux-options.php:424
+msgid "Wrong email"
+msgstr ""
+
+#: inc/redux-options.php:430
+msgid "Site Address"
+msgstr ""
+
+#: inc/redux-options.php:431
+msgid "Type here your address"
+msgstr ""
+
+#: inc/redux-options.php:432
+msgid "The Address"
+msgstr ""
+
+#: inc/redux-options.php:438
+msgid "Form Shortcode"
+msgstr ""
+
+#: inc/redux-options.php:439
+msgid "Type here the form shortcode"
+msgstr ""
+
+#: inc/redux-options.php:440
+msgid "Type the Shortcode from CF7 plugins or other"
+msgstr ""
+
+#: inc/redux-options.php:446
+msgid "Copyrights"
+msgstr ""
+
+#: inc/redux-options.php:447
+msgid "Type here some copirights"
+msgstr ""
+
+#: inc/redux-options.php:454
+msgid "Post Type Settings"
+msgstr ""
+
+#: inc/redux-options.php:456
+msgid "Specify the count on archives"
+msgstr ""
+
+#: inc/redux-options.php:464
+msgid "Posts per Page"
+msgstr ""
+
+#: inc/redux-options.php:465
+msgid "On Rooms Post Type"
+msgstr ""
+
+#: inc/redux-options.php:466
+msgid "How meny posts you want to show on the Rooms Archive Page"
+msgstr ""
+
+#: inc/redux-options.php:473
+msgid "Width"
+msgstr ""
+
+#: inc/redux-options.php:474 inc/redux-options.php:475
+msgid "....."
+msgstr ""
+
+#: inc/redux-options.php:481
+msgid "Button Set Option"
+msgstr ""
+
+#: inc/redux-options.php:482
+msgid "No validation can be done on this field type"
+msgstr ""
+
+#: inc/redux-options.php:483
+msgid "This is the description field, again good for additional info."
+msgstr ""
+
+#: inc/redux-options.php:2553
+msgid "Section via hook"
+msgstr ""
+
+#: inc/redux-options.php:2554
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: inc/template-tags.php:62
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:65
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:72
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:82
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/template-tags.php:99 template-parts/content-page.php:37
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/tgm.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/tgm.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/tgm.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/tgm.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/tgm.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/tgm.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/tgm.php:393 inc/tgm.php:912 inc/tgm.php:2618 inc/tgm.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/tgm.php:394 inc/tgm.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/tgm.php:395 inc/tgm.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/tgm.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. Please "
+"update the plugin."
+msgstr ""
+
+#: inc/tgm.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/tgm.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/tgm.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/tgm.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/tgm.php:608
+msgid "Update Required"
+msgstr ""
+
+#: inc/tgm.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug and "
+"renaming did not work."
+msgstr ""
+
+#: inc/tgm.php:1019 inc/tgm.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/tgm.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/tgm.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/tgm.php:2358
+msgid "Required"
+msgstr ""
+
+#: inc/tgm.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: inc/tgm.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/tgm.php:2380
+msgid "External Source"
+msgstr ""
+
+#: inc/tgm.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/tgm.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: inc/tgm.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/tgm.php:2406
+msgid "Active"
+msgstr ""
+
+#: inc/tgm.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/tgm.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: inc/tgm.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: inc/tgm.php:2427
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/tgm.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm.php:2567
+msgid "unknown"
+msgstr ""
+
+#: inc/tgm.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: inc/tgm.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/tgm.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: inc/tgm.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/tgm.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: inc/tgm.php:2633
+msgid "Source"
+msgstr ""
+
+#: inc/tgm.php:2634
+msgid "Type"
+msgstr ""
+
+#: inc/tgm.php:2638
+msgid "Version"
+msgstr ""
+
+#: inc/tgm.php:2639
+msgid "Status"
+msgstr ""
+
+#: inc/tgm.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/tgm.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/tgm.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/tgm.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/tgm.php:2802
+msgid "Install"
+msgstr ""
+
+#: inc/tgm.php:2808
+msgid "Update"
+msgstr ""
+
+#: inc/tgm.php:2811
+msgid "Activate"
+msgstr ""
+
+#: inc/tgm.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/tgm.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/tgm.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/tgm.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/tgm.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/tgm.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/tgm.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/tgm.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/tgm.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/tgm.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/tgm.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/tgm.php:3594 inc/tgm.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: inc/tgm.php:3594 inc/tgm.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: inc/tgm.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/tgm.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/tgm.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/tgm.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/tgm.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: search.php:22
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-contact.php:59
+msgid "Get in touch with us"
+msgstr ""
+
+#: template-home.php:106
+msgid "Photo Gallery"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:24
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching "
+"can help."
+msgstr ""
+
+#: template-parts/content-page.php:24 template-parts/content.php:50
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content.php:39
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
